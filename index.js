@@ -1,7 +1,3 @@
-// Copyright (c) 2014 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
-// found in the LICENSE file.
-// extract from chromium source code by @liuwayong
 (function () {
     'use strict';
     /**
@@ -122,7 +118,7 @@
         MIN_JUMP_HEIGHT: 35,
         MOBILE_SPEED_COEFFICIENT: 1.2,
         RESOURCE_TEMPLATE_ID: 'audio-resources',
-        SPEED: 6,
+        SPEED: 60,
         SPEED_DROP_COEFFICIENT: 3,
         ARCADE_MODE_INITIAL_TOP_POSITION: 35,
         ARCADE_MODE_TOP_POSITION_PERCENT: 0.1
