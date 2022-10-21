@@ -1,2 +1,2 @@
-# google-dino-game
-The google dino game from chromium with a few tweaks
+# google-dino-game-super-speed
+The google dino game but fast
